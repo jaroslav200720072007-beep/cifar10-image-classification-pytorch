@@ -7,8 +7,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N9UVmZGwLWI8OM0VzSg-8PC65kypWcuh?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Dataset](https://img.shields.io/badge/Dataset-CIFAR--10-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
